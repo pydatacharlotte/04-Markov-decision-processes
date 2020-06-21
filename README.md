@@ -1,2 +1,3 @@
-# 04-Markov-decision-processes
-Planning ahead: using Markov decision processes to optimize your life
+# PyData Charlotte - Markov Decision Processes
+
+Collection of scripts, notebooks, and slides for a presentation on Markov decision processes by Eric Cotner.
